@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 120 120"
+   width="100%"
+   height="100%"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.0422938"
+     inkscape:cx="34.139033"
+     inkscape:cy="67.288529"
+     inkscape:window-width="1600"
+     inkscape:window-height="930"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <text
+     x="57.265617"
+     y="95.312607"
+     font-family="cursive, 'Brush Script MT', 'Palatino Linotype', serif"
+     font-size="75px"
+     font-weight="bold"
+     font-style="italic"
+     text-anchor="middle"
+     fill="#000000"
+     id="text1"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:106.667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic'">M</text>
+</svg>
