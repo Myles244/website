@@ -1,18 +1,13 @@
 body {
     margin: 0;
     padding: 0;
-    /* Make the body very tall so the browser has room to scroll */
-    height: 5000px; 
     background-color: #222;
+    /* We no longer need to force the body height, 
+       the massive canvas will do that for us! */
 }
 
 canvas {
-    /* Keep the canvas fixed to the user's screen */
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
+    display: block;
     /* Crisp edges for pixel art */
     image-rendering: pixelated; 
 }
