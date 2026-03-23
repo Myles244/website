@@ -2,7 +2,7 @@ const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 
 // Define the total size of your museum
-const museumWidth = window.innerWidth;
+const museumWidth = 1000;
 const museumHeight = 3500; 
 
 canvas.width = museumWidth;
