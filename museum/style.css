@@ -2,12 +2,9 @@ body {
     margin: 0;
     padding: 0;
     background-color: #222;
-    /* We no longer need to force the body height, 
-       the massive canvas will do that for us! */
 }
 
 canvas {
     display: block;
-    /* Crisp edges for pixel art */
     image-rendering: pixelated; 
 }
